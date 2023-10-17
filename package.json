@@ -3,8 +3,7 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "start_bun": "bun run src/index.js",
-    "start": "node run src/index.js"
+    "start": "bun run src/index.js"
   },
   "devDependencies": {
     "bun-types": "latest"
